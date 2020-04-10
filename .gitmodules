@@ -1,0 +1,6 @@
+[submodule "Thesis_writing"]
+	path = Thesis_writing
+	url = https://github.com/pjgibson25/Thesis_writing.git
+[submodule "pj_AllSky_code"]
+	path = pj_AllSky_code
+	url = https://github.com/pjgibson25/pj_AllSky_code.git
